@@ -19,5 +19,4 @@ Here's the list of top Persian website refrenced to [Alexa](https://www.alexa.co
 9. [Sheypoor](https://www.sheypoor.com/)
    ###### Free car sales, apartment and property, mobile phones and tablets, motorcycles, home appliances, second-hand goods, hire and services in Iran.
 10. [Zoomit](https://www.zoomit.ir/)
-   ###### All IT news includes photography, architecture, new gadgets, mobile, Internet and network, security, astronomy, Windows operating systems, Mac, Linux and so on.
-
+     ###### All IT news includes photography, architecture, new gadgets, mobile, Internet and network, security, astronomy, Windows operating systems, Mac, Linux and so on.
