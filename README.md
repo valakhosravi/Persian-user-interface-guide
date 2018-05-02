@@ -11,5 +11,6 @@
 	* Footer
 * Packages
 	* Calendar
-* Payment Certificates
-* Payment Gateways
+* Payment 
+	* Certificates
+	* Gateways
