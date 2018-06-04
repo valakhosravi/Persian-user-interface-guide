@@ -2,9 +2,9 @@
 
 
 ## Table of Contents
-* [UI Design](pages/ui-design.md)
-	* Fonts
-	* RTL
+* UI Design
+	* [Fonts](pages/fonts.md)
+	* [RTL](pages/rtl.md)
 * Wording
 	* Authentication
 	* Header
