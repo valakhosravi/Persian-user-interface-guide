@@ -1,6 +1,5 @@
-# UI Design
-
-## Fonts
+# Fonts
+## Common Persian Fonts
 
 Here's common persian fonts that used in well-known persian websites:
 
