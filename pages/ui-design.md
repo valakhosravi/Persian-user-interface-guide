@@ -45,9 +45,9 @@ Now the custom font is added to website and you can use it:
   font-family: 'custom-font', tahoma, sans-serif;
 }
 ```
-As you can see `* { font-family: 'custom-font', Arial, sans-serif; }` is not a great approach when you are using not english font in your website. **WHY?!** 
+As you can see `* { font-family: 'custom-font', Arial, sans-serif; }` is not a great approach when you are not using english font in your website. **WHY?!** 
 
-In some part of your website you have english parts *(example: username inputs, email inputs, password inputs and ...)* if these parts font turns to persian (for example) digits will convert to persian digits and it's not good for user interface because: user thinks language is important in these inputs **What to do instead?**
+In some parts of your website you have english components *(example: username inputs, email inputs, password inputs and ...)* if these components' font turns into persian (for example) digits will convert to persian digits and it's not good for user interface because: users think language is important in these inputs **What to do instead?**
 
 Create class for english parts and add `custom-font` tu every thing except `.en` parts
 ```css
